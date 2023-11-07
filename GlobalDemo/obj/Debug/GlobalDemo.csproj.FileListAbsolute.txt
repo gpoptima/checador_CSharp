@@ -1,0 +1,85 @@
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\bin\Debug\GlobalDemo.exe.config
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\bin\Debug\GlobalDemo.exe
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\bin\Debug\GlobalDemo.pdb
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\bin\Debug\MySql.Data.dll
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\bin\Debug\MySQLConnection.dll
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.ResolveComReference.cache
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.AgregarUsuario.resources
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.BorrarDatosDeUsuario.resources
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.EventosRTEqueExisten.resources
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.formZKDemo.resources
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.MasDatosTotalesForm.resources
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.ModificarUsuario.resources
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.Properties.Resources.resources
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.GenerateResource.cache
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.CopyComplete
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.exe
+C:\Users\Rakry\Downloads\ZK-master\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.pdb
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\bin\Debug\GlobalDemo.exe.config
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\bin\Debug\GlobalDemo.exe
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\bin\Debug\GlobalDemo.pdb
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\bin\Debug\MySql.Data.dll
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\bin\Debug\MySQLConnection.dll
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csprojAssemblyReference.cache
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.ResolveComReference.cache
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.AgregarUsuario.resources
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.BorrarDatosDeUsuario.resources
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.EventosRTEqueExisten.resources
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.formZKDemo.resources
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.MasDatosTotalesForm.resources
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.ModificarUsuario.resources
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.Properties.Resources.resources
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.GenerateResource.cache
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.CoreCompileInputs.cache
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.csproj.CopyComplete
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.exe
+C:\Users\Rakry\Downloads\ZK-master-FUNCIONAL\ZK-master\GlobalDemo\obj\Debug\GlobalDemo.pdb
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.csproj.ResolveComReference.cache
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\MySql.Data.dll
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\MySQLConnection.dll
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.AgregarUsuario.resources
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.BorrarDatosDeUsuario.resources
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.EventosRTEqueExisten.resources
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.formZKDemo.resources
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.MasDatosTotalesForm.resources
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.ModificarUsuario.resources
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.csproj.GenerateResource.Cache
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.csprojResolveAssemblyReference.cache
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.exe.config
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.exe.manifest
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.application
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.exe
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.pdb
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.Properties.Resources.resources
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.TrustInfo.xml
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.exe.manifest
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.application
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.exe
+C:\Users\cim\Downloads\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.pdb
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.exe.config
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.exe.manifest
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.application
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.exe
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\Checador.pdb
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\MySql.Data.dll
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\bin\Debug\MySQLConnection.dll
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.csproj.ResolveComReference.cache
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.AgregarUsuario.resources
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.BorrarDatosDeUsuario.resources
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.EventosRTEqueExisten.resources
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.formZKDemo.resources
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.MasDatosTotalesForm.resources
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.ModificarUsuario.resources
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.Properties.Resources.resources
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.csproj.GenerateResource.Cache
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.TrustInfo.xml
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.exe.manifest
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.application
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.exe
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Checador.pdb
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\cim\Documents\checador_rh-main (1)\checador_rh-main\GlobalDemo\obj\Debug\GlobalDemo.csprojResolveAssemblyReference.cache
